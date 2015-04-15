@@ -34,14 +34,14 @@
 - [addons](https://github.com/robksawyer/openFrameworks/tree/osx-ffgl/addons)
 - [addons/PennerEasing](https://github.com/robksawyer/ofxAddons/tree/master/PennerEasing) - Took a bit of searching to find this.
 - [addons/ofxNoise/src](https://github.com/robksawyer/ofxRuicodeAddons/tree/master/ofxNoise/src) - This was ported from <http://code.google.com/p/ruicode>.
-- [addons/ofxVectorMath/src](https://github.com/robksawyer/openFrameworks/tree/0071/addons/ofxVectorMath/src) - DEPRECATED at Tag 0072: Included only for backwards-compatibility. See post <http://forum.openframeworks.cc/t/ofxvectormath/7028>. See <Old Tags> below.
+- [addons/ofxVectorMath/src](https://github.com/robksawyer/openFrameworks/tree/0071/addons/ofxVectorMath/src) - DEPRECATED at Tag 0072: Included only for backwards-compatibility. See post <http://forum.openframeworks.cc/t/ofxvectormath/7028>. See [Old Tags](#old-tags) below.
 - [addons/ofxFFGLPlugin/src](https://github.com/robksawyer/openFrameworks/tree/osx-ffgl/addons/ofxFFGLPlugin/src) - Be sure to check out the [README.md](https://github.com/robksawyer/ofFFGLPlugin) on this one. There have been modifications made from the original version of ofxFFGLPlugin that is downloaded from <https://code.google.com/p/ofxffglplugin/>.
 - [addons/ofxFFGLPlugin/libs/FFGL](https://github.com/robksawyer/openFrameworks/tree/osx-ffgl/addons/ofxFFGLPlugin/libs/FFGL) - Be sure to check out the [README.md](https://github.com/robksawyer/ofFFGLPlugin)
 
 #### Other Libraries
 
 - [sfLibrary/src](https://github.com/robksawyer/freeframePlugins-osx/tree/master/sfLibrary/src) - I put this in the `openframeworks/other/` folder.
-- [libs/glee/include](https://github.com/openframeworks/openFrameworks/tree/0062/libs/glee) - DEPRECATED at Tag 0062: Included only for backwards-compatibility until I can figure out how to remove it. See <Old Tags> below.
+- [libs/glee/include](https://github.com/openframeworks/openFrameworks/tree/0062/libs/glee) - DEPRECATED at Tag 0062: Included only for backwards-compatibility until I can figure out how to remove it. See [Old Tags](#old-tags) below.
 
 
 ## Install
