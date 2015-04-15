@@ -40,7 +40,7 @@
 
 #### Other Libraries
 
-- [sfLibrary/src](https://github.com/robksawyer/freeframePlugins-osx/tree/master/sfLibrary/src)
+- [sfLibrary/src](https://github.com/robksawyer/freeframePlugins-osx/tree/master/sfLibrary/src) - I put this in the `openframeworks/other/` folder.
 - [libs/glee/include](https://github.com/openframeworks/openFrameworks/tree/0062/libs/glee) - DEPRECATED@0062 (Tag): Included only for backwards-compatibility until I can figure out how to remove it.
 
 
