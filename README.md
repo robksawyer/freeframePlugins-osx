@@ -5,8 +5,8 @@
 - Open Frameworks <https://github.com/robksawyer/openFrameworks>
 - Apple Xcode <https://developer.apple.com/xcode/>
 
-### Includes/Addons Required
-> Verify that you have the following addons and libraries installed.
+### Before starting. Check the required includes and addons.
+> Verify that you have the following addons and libraries installed in your openframeworks project folder.
 
 #### OpenFrameworks Libraries
 - [libs/openFrameworks](https://github.com/robksawyer/openFrameworks/tree/master/libs/openFrameworks)
