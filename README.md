@@ -54,8 +54,8 @@ In order to use this project, you'll need to install some libraries that are no 
 
 ## FAQs
 
-1. How do I fix the `tr1/memory file not found` error?
-> See the post <https://github.com/openframeworks/openFrameworks/issues/2686>.
+1. Question: How do I fix the `tr1/memory file not found` error?
+   Answer: See the post <https://github.com/openframeworks/openFrameworks/issues/2686>.
 
 
 ## Resources
