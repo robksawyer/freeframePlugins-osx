@@ -52,6 +52,12 @@
 
 In order to use this project, you'll need to install some libraries that are no longer included with OpenFrameworks. To do so you should checkout the mentioned tag via the specific repo mentioned ([openframeworks](https://github.com/robksawyer/openFrameworks)) and copy the folder to your working openframeworks build or somewhere else until you switch back to your working copy. See <http://stackoverflow.com/questions/791959/download-a-specific-tag-with-git>
 
+## FAQs
+
+1. How do I fix the `tr1/memory file not found` error?
+  > See the post <https://github.com/openframeworks/openFrameworks/issues/2686>.
+
+
 ## Resources
 - [Basics of OpenFrameworks](http://openframeworks.cc/tutorials/graphics/opengl.html)
 - [OpenFrameworks Documentation](http://openframeworks.cc/documentation/)
