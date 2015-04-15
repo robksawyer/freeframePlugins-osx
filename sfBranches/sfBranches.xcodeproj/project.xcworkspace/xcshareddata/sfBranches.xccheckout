@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>27C29854-1E27-4A0B-B272-A3DAB47F7735</string>
+	<key>IDESourceControlProjectName</key>
+	<string>sfBranches</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ECE92CBC580BBB0416BED78DED02C5DC608C7C2C</key>
+		<string>github.com:robksawyer/freeframePlugins-osx.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>sfBranches/sfBranches.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ECE92CBC580BBB0416BED78DED02C5DC608C7C2C</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:robksawyer/freeframePlugins-osx.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ECE92CBC580BBB0416BED78DED02C5DC608C7C2C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ECE92CBC580BBB0416BED78DED02C5DC608C7C2C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>freeframePlugins-osx</string>
+		</dict>
+	</array>
+</dict>
+</plist>
